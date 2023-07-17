@@ -1,2 +1,2 @@
 # arch-ts
-![Alt text](icons/128.jpg?raw=true "Title")
+![Alt text](icons/128.png?raw=true "Title")
