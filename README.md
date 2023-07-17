@@ -3,4 +3,4 @@
 
 # arch-ts
 
-A simple chrome extension that autonomously detects 404s/Not Founds and redirects to that page on the Internet Archive.
+A simple chrome extension that autonomously detects "404" or "Not Found" and redirects to that page on the Internet Archive.
