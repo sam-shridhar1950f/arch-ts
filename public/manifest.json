@@ -1,0 +1,24 @@
+{
+  "name": "archive",
+  "description": "A chrome extension that automatically redirects lost websurfers to the internet archive.",
+  "version": "1.0",
+  "icons": {
+   "16": "icons/16.png",
+   "19": "icons/19.png",
+   "48": "icons/48.png",
+   "128": "icons/128.png"
+  },
+  "manifest_version": 3,
+  "action": {},
+  "permissions": [
+     "activeTab",
+     "scripting",
+     "tabs"
+  ],
+  "host_permissions": [
+   "<all_urls>"
+  ],
+  "background": {
+     "service_worker": "background.js"
+  }
+}
